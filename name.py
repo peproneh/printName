@@ -1,2 +1,6 @@
 name = "Peproneh Badalyan"
-print (name)
+n=4
+v=0
+while v<n:
+    print (name)
+    v=v+1
