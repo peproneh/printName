@@ -1,2 +1,5 @@
 name = "Peproneh Badalyan"
-print (name)
+n=4
+while n>0:
+    print (name)
+    n=n-1
