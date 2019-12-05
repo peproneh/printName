@@ -1,6 +1,5 @@
 name = "Peproneh Badalyan"
 n=4
-v=0
-while v<n:
+while n>0:
     print (name)
-    v=v+1
+    n=n-1
